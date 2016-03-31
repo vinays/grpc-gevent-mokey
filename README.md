@@ -1,5 +1,5 @@
-gRPC hang with gevent monkey patch
-==================================
+gRPC + gevent monkey patch
+==========================
 
 Prerequisite:
 ------------
