@@ -26,7 +26,7 @@ As of current gRPC implementation (grpcio==0.13.0), it will HANG. Press `<ctrl+c
 This will build and run docker container that executes [greeter_client_wo_patch.py](https://github.com/vinays/grpc-gevent-mokey/blob/master/greeter_client_wo_patch.py)
 It will execute successfully and print
 ```
-_<docker build output>_
+<docker build output>
 ...
 Creating Greeter client...
 Greeter client created!
